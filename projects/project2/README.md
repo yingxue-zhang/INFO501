@@ -1,6 +1,8 @@
-# Project 4 [Group (3-4 people)]
+# Project 3 [Group (3-4 people)]
 
 #### Important Dates
+* Group Formation
+  * **Wednesday Mar 23, 2022**
 * Project Start
   * **Wednesday Mar 23, 2022**
 * Project Proposal Due (Upload to Canvas)
@@ -15,22 +17,7 @@
 #### Total Points
 * 100 (One Hundred)
 
-## Project Titles
-| Team | Title|
-| :---: | :---: |
-|1| |
-|2| |
-|3| |
-|4| |
-|5| |
-|6| |
-|7| |
-|8| |
-|9| |
-|10| |
-|11| |
-
-
+#### Project Description
 
 
 ***Feedback here: https://forms.gle/cNgfX1dxXct1jNe26***
